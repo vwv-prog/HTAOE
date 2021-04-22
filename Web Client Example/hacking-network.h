@@ -49,7 +49,7 @@ int recv_line(int sockfd, unsigned char *dest_buffer){
             }
             ptr++;
         }
-        return 0
+        return 0;
     }
 }
 
